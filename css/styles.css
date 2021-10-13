@@ -1,0 +1,9 @@
+h2.intro {
+  color: rgb(62, 165, 165);
+}
+p.intro {
+  color:rgb(66, 65, 65);
+}
+img.intro {
+  box-shadow: darkgray;
+}
