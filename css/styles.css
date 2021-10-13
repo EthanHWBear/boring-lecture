@@ -1,9 +1,8 @@
-h2.intro {
-  color: rgb(62, 165, 165);
+.intro {
+color: blue;
+text-align: center;
 }
-p.intro {
-  color:rgb(66, 65, 65);
-}
-img.intro {
-  box-shadow: darkgray;
+.column {
+  width: 200px;
+  float: left;
 }
